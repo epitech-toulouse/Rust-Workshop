@@ -10,4 +10,4 @@ end
 
 temps_execution = @elapsed pi_approx = pi_calc(nb_iterations)
 
-println("Temps d'exécution Julia : ", temps_execution * 1000, " ms")
+println("Temps d'exécution en Julia : ", temps_execution * 1000, " ms")
