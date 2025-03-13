@@ -4,6 +4,11 @@
 ./exec.sh
 ```
 
+
+## La série de Leibniz
+
+Calcul de pi, la série de Leibniz : https://fr.wikipedia.org/wiki/Formule_de_Leibniz#S%C3%A9rie_altern%C3%A9e
+
 La série de Leibniz pour l'approximation de \(\pi\) est donnée par :
 
 $\[
@@ -18,10 +23,7 @@ $\[
 
 Cette série converge très lentement vers \(\pi\), ce qui la rend peu efficace pour les calculs numériques précis.
 
-
-## temps écoulés :
-
-Calcul de pi, la série de Leibniz : https://fr.wikipedia.org/wiki/Formule_de_Leibniz#S%C3%A9rie_altern%C3%A9e
+## Temps écoulés :
 
 | **Opération** | **Temps écoulé** |
 |    ---        |      ---         |
