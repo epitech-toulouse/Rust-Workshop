@@ -32,4 +32,4 @@ Cette série converge très lentement vers $\\pi\$, ce qui la rend peu efficace 
 | js            | 11.3 ms          |
 | python        | 259 ms           |
 | Haskell       | 0.132 ms         |
-| Julia         | 38 ms            |
+| Julia         | 0.99 ms          |
