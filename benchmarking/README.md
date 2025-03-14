@@ -39,4 +39,4 @@ Les résultats du benchmarking montrent clairement les différences de performan
 
 - Rust et C se démarquent avec des temps d'exécution extrêmement faibles, ce qui est dû à leurs compilateurs très optimisés et à leur nature de bas niveau.
 
-- Haskell et Julia offrent également de très bonnes performances, surtout pour les calculs intensifs. JavaScript et Python, bien que plus lents, mais permettent une rapidité acceptable pour de nombreux cas d'utilisation.
+- Haskell et Julia offrent également de très bonnes performances, surtout pour les calculs intensifs. JavaScript et Python, bien que lents, permettent une rapidité de développement acceptable pour de nombreux cas d'utilisation.
