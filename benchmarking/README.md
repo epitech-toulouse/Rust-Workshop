@@ -33,3 +33,10 @@ Cette série converge très lentement vers $\\pi\$, ce qui la rend peu efficace 
 | python        | 259 ms           |
 | Haskell       | 0.132 ms         |
 | Julia         | 0.99 ms          |
+
+
+Les résultats du benchmarking montrent clairement les différences de performance entre plusieurs langages de programmation pour une tâche donnée.
+
+- Rust et C se démarquent avec des temps d'exécution extrêmement faibles, ce qui est dû à leurs compilateurs très optimisés et à leur nature de bas niveau.
+
+- Haskell et Julia offrent également de très bonnes performances, surtout pour les calculs intensifs. JavaScript et Python, bien que plus lents, mais permettent une rapidité acceptable pour de nombreux cas d'utilisation.
