@@ -27,11 +27,11 @@ Cette série converge très lentement vers $\\pi\$, ce qui la rend peu efficace 
 
 | **Opération** | **Temps écoulé** |
 |    ---        |      ---         |
-| rust          | 8,3^-5 ms        |
-| c             | 3.5 ms           |
-| js            | 11.3 ms          |
-| python        | 259 ms           |
-| Haskell       | 0.132 ms         |
+| rust          | 0.042 µs         | // microsecondes parce que plus précis
+| c             | 0.001 ms         |
+| js            | 5.93 ms          |
+| python        | 244.59 ms        |
+| Haskell       | 0.122 ms         |
 | Julia         | 0.99 ms          |
 
 
